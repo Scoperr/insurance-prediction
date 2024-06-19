@@ -7,6 +7,7 @@ matplotlib
 flask 
 dvc
 dill
+xgboost
 catboost
 mlflow==2.2.2
 -e .
