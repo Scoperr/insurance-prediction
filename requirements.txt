@@ -6,5 +6,7 @@ ipykernel
 matplotlib
 flask 
 dvc
+dill
+catboost
 mlflow==2.2.2
 -e .
